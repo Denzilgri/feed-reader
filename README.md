@@ -28,4 +28,4 @@ Go to the project directory and open the index.html file.
 
 ## Dependency
 
-Supported on all browsers.
+Supported on all browsers except IE, as I've used the for..of loop which mandates the use of es6 Symbols after transpiling it through Babel.js.
