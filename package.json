@@ -1,0 +1,30 @@
+{
+  "name": "feed-reader",
+  "version": "1.0.0",
+  "description": "This is feed reader app with jasmine tests",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Denzilgri/feed-reader.git"
+  },
+  "author": "Denzil Godwin Griffiths",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Denzilgri/feed-reader/issues"
+  },
+  "homepage": "https://github.com/Denzilgri/feed-reader#readme",
+  "devDependencies": {
+    "@babel/core": "^7.2.0",
+    "@babel/preset-env": "^7.2.0",
+    "@babel/preset-flow": "^7.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-fontmin": "^0.7.4",
+    "gulp-uglify": "^3.0.1"
+  }
+}
